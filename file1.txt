@@ -4,3 +4,4 @@ dsjklajdlkgj;lajlgjadl
 git commit sta
 
 Git additon after fist commit
+Hell to the linux world trying to do git
