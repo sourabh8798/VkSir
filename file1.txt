@@ -2,3 +2,5 @@ first line of my code
 git status
 dsjklajdlkgj;lajlgjadl
 git commit sta
+
+Git additon after fist commit
